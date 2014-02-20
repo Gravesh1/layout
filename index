@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+    <head>
+        <title> Shows in Tab </title>
+        <link rel="stylesheet" href="">
+            <style>
+            </style>
+    </head>
+        <div id="wrapper"> <!--The 'id' can only be used to name/identify one thing -->
+            <header><h1> This is the main header</h1>
+            </header>
+         <nav> 
+             <h2> Navigation<!--This is how you format navigation -->
+            <ul><!--This is how you make an unordered list! To make an ordered list, its <ol></ol> -->
+                <li>link1</li>
+                <li>link2</li>
+                <li>link3</li>
+            </ul>
+            </nav>
+    </div>
+        
+       <article>
+           <header>
+               <h1> Article Title</h1>
+           </header>
+           <p> Main paragraph content</p>
+        </article>
+
+        <aside>
+            <h3> Aside </h3>
+             Aside Info.
+        </aside>
+        
+        <footer>
+            <p>Footer Info
+            
+        </footer>
+        
+    </html>
