@@ -1,0 +1,28 @@
+#wrapper {
+    width:500px;
+    margin: 0 auto 0 auto;
+    border: 1px solid #000000;
+}
+
+.main {
+    border:1px solid #000;
+}
+
+
+header {
+    border: 1px solid #000000;
+}
+
+
+nav, aside {
+    width: 98px;
+    border: 1px solid #000;
+}  
+
+article {
+    width: 298px;
+}
+
+footer {
+    clear:left;
+}
