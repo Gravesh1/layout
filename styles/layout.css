@@ -1,8 +1,13 @@
 #wrapper {
-width:600px;
+    width:500px;
     margin: 0 auto 0 auto;
-border: 1px solid #000000;
+    border: 1px solid #000000;
 }
+
+.main {
+    border:1px solid #000;
+}
+
 
 header {
     border: 1px solid #000000;
@@ -10,9 +15,9 @@ header {
 
 
 nav, aside {
-    width: 96px;
+    width: 98px;
     border: 1px solid #000;
-}
+}  
 
 article {
     width: 298px;
