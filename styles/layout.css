@@ -1,5 +1,5 @@
 #wrapper {
-    width:600px;
+    width:65%;
     margin: 0 auto 0 auto;
     border:1px solid #000;
 }
@@ -10,6 +10,7 @@
 
 nav, article, aside {
     float:left;
+    padding: 10px;
     border:1px solid #000;
       font-family: Gotham, Sans-Serif;
   font-size: 11px;
@@ -18,12 +19,12 @@ nav, article, aside {
 }
 
 nav, aside {
-   width:146px; 
+   width:25%; 
      
 }
 
 article {
-    width:298px;
+    width:40%;
       font-family: Gotham, Sans-Serif;
   font-size: 11px;
   color:#FFFFFF;
@@ -56,6 +57,7 @@ h1, h2 /*This controls all listed headings. (h1, h2, h3...etc)*/
     color:#F76700;
     font-size:40px;
     text-transform:uppercase;
+    padding: 10px;
 
 }
 
